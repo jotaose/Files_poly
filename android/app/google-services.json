@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "473426713151",
+    "project_id": "polyrevspa-d8417",
+    "storage_bucket": "polyrevspa-d8417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473426713151:android:634c811963019509c9f68a",
+        "android_client_info": {
+          "package_name": "com.example.archivos_polyrev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473426713151-vd0fslottem0asmjodji1b9g4snoak6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.archivos_polyrev",
+            "certificate_hash": "46fa22ffe43436427160520e2e30f37a09e0a945"
+          }
+        },
+        {
+          "client_id": "473426713151-6do4adf0b1f6qqmc5h5mf6ps19l4ujlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrhSi6gieyBK-Rn4CEKhEYoVm5kC57XFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473426713151-6do4adf0b1f6qqmc5h5mf6ps19l4ujlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
